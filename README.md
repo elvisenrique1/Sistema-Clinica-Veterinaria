@@ -14,7 +14,7 @@ Su objetivo principal es ofrecer una API para la gestión de datos relacionados 
 
 > Utiliza una base de datos MySQL.
 
-> Este proyecto cuenta con:
+> El proyecto cuenta con:
 
 - Creación de paquete **entities** para la creacion y configuracion de las clases a implementar. (Duenio, Mascota, Cita y Tratamiento).
 - Creación de paquete **enums** para la creacion y configuracion de la clase o enum a implementar. (Estado).
@@ -26,6 +26,10 @@ Su objetivo principal es ofrecer una API para la gestión de datos relacionados 
 - Creacion de carpeta "sql" que contiene los archivos schema_DDL, Data_DML y queries.
 - Pruebas o Test realizados de manera exitosa.
 
-> Es todo por ahora esperando por revisión.
+<p>
+Este backend de Clínica Veterinaria representa una base sólida, su diseño modular y el uso de tecnologías estándar facilitan tanto el desarrollo como el mantenimiento. Las pruebas de repositorio aseguran la fiabilidad de las operaciones CRUD con una configuración adecuada, listo para la aplicación de gestión veterinaria. 
+  
+¡Esperando que este proyecto sea de gran utilidad! 
+</p>
 
 🧑‍💻 Desarrollado © 2025 **{<∫geedev>_}** by Elvis Guaiquire.
