@@ -22,7 +22,7 @@ Su objetivo principal es ofrecer una API para la gestión de datos relacionados 
 - Creación de paquete **tests** incluye una clase **TestRepositories.java** que contiene una serie de pruebas para verificar la funcionalidad de los repositorios (CRUD y búsquedas específicas).
 
 > Dentro del paquete resources.
-- Creacion de carpeta "docs" que almacena el archivos DER (Diagrama de Entidad de Relación) en formato .png y en formato .mwb .
+- Creacion de carpeta "docs" que almacena los archivos DER (Diagrama de Entidad de Relación) en formato .png y en formato .mwb .
 - Creacion de carpeta "sql" que contiene los archivos schema_DDL, Data_DML y queries.
 - Pruebas o Test realizados de manera exitosa.
 
